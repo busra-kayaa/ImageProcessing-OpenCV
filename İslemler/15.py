@@ -1,6 +1,5 @@
 # Videodan arka plan çıkarma
 import cv2
-import numpy as np
 
 cap = cv2.VideoCapture("yol.mp4")
 sub = cv2.createBackgroundSubtractorMOG2(history=150, varThreshold=25, detectShadows=True)

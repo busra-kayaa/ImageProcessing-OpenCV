@@ -1,7 +1,6 @@
 # Resimler Arasındaki Farklılıkları Bulma Subtract fonksiyonu
 
 import cv2
-import numpy as np
 
 img1 = cv2.imread("ub1.jpg ")
 img2 = cv2.imread("ub2.jpg ")
