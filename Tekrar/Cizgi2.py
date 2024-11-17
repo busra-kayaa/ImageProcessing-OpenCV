@@ -2,6 +2,7 @@
 import cv2
 import numpy as np
 
+# Boyutundan dolayı mp4 videosu githuba atılamadı.
 cap = cv2.VideoCapture("yol1.mp4")
 
 while True:
