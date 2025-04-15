@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Goturn/goturn_model/goturn-files" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Opencv" vcs="Git" />
   </component>
 </project>
