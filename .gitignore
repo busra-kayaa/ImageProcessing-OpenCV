@@ -1,1 +1,6 @@
 /.history
+# .zip dosyalarını yoksay
+*.zip
+
+# .caffemodel dosyalarını yoksay
+*.caffemodel
